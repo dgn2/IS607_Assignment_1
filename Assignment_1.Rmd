@@ -1,0 +1,24 @@
+---
+title: "IS606 - Assignment 1"
+author: "Derek G. Nokes"
+date: "Friday, January 30, 2015"
+output: html_document
+---
+
+The version of RStudio:
+Version 0.98.1091 – © 2009-2014 RStudio, Inc.
+
+The version of R:
+
+```{r}
+sessionInfo()
+```
+
+The version of PostgreSQL:
+PostgreSQL 9.4.0
+
+The version of Git:
+Git-1.9.5-preview20141217
+
+The version of GitHub for Windows:
+Inexplicable Armadillo (2.7.0.24) 505d99e
