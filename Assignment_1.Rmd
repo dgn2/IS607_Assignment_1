@@ -12,6 +12,10 @@ Version 0.98.1091 – © 2009-2014 RStudio, Inc.
 
 #### The version of R:
 
+R version 3.1.2 (2014-10-31)
+
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
 ```{r}
 sessionInfo()
 ```
