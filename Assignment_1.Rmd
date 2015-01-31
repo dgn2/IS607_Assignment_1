@@ -2,7 +2,7 @@
 title: "IS606 - Assignment 1"
 author: "Derek G. Nokes"
 date: "Friday, January 30, 2015"
-output: html_document
+output: pdf_document
 ---
 
 The version of RStudio:
